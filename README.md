@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arya Ashari</h1>
-<h3 align="center">An Undergraduate Computer Science student passionate about Front-End Development & Data Analysis. Currently a student at Universitas Pertamina.</h3>
+<h3 align="center">An Undergraduate Computer Science student passionate about Data Analysis & Front-End Development. Currently a student at Universitas Pertamina.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=birulaut13&label=Profile%20views&color=0e75b6&style=flat" alt="birulaut13" /> </p>
 
