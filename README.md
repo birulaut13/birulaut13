@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arya Ashari</h1>
-<h3 align="center">An Undergraduated Computer Science student with a passion for Front-End Development & Data Analysis. Currently a student at Universitas Pertamina.</h3>
+<h3 align="center">An Undergraduate Computer Science student passionate about Front-End Development & Data Analysis. Currently a student at Universitas Pertamina.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=birulaut13&label=Profile%20views&color=0e75b6&style=flat" alt="birulaut13" /> </p>
 
@@ -25,9 +25,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <!-- Added technical tools here -->
   <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftexcel/microsoftexcel-original.svg" alt="msexcel" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/power-bi" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftpowerbi/microsoftpowerbi-original.svg" alt="ms-power-bi" width="40" height="40"/> </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original-wordmark.svg" alt="tableau" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a>
 </p>
@@ -37,9 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=birulaut13&show_icons=true&locale=en" alt="birulaut13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=birulaut13&" alt="birulaut13" /></p>
-
-<h3 align="left">ADDITIONAL INFORMATION:</h3>
-<p align="left">
-  <strong>Technical Skills:</strong><br>
-  C++, Python, HTML, CSS, JavaScript, GitHub, Google Looker, MS Office, MS Power BI, Tableau, MySQL Workbench, DB Browser for SQLite.
-</p>
